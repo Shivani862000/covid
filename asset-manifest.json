@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shivani862000/covid/static/css/main.1421ed3b.chunk.css",
+    "main.js": "/Shivani862000/covid/static/js/main.93716d6a.chunk.js",
+    "main.js.map": "/Shivani862000/covid/static/js/main.93716d6a.chunk.js.map",
+    "runtime-main.js": "/Shivani862000/covid/static/js/runtime-main.df746dc8.js",
+    "runtime-main.js.map": "/Shivani862000/covid/static/js/runtime-main.df746dc8.js.map",
+    "static/js/2.83f34d65.chunk.js": "/Shivani862000/covid/static/js/2.83f34d65.chunk.js",
+    "static/js/2.83f34d65.chunk.js.map": "/Shivani862000/covid/static/js/2.83f34d65.chunk.js.map",
+    "index.html": "/Shivani862000/covid/index.html",
+    "static/css/main.1421ed3b.chunk.css.map": "/Shivani862000/covid/static/css/main.1421ed3b.chunk.css.map",
+    "static/js/2.83f34d65.chunk.js.LICENSE.txt": "/Shivani862000/covid/static/js/2.83f34d65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df746dc8.js",
+    "static/js/2.83f34d65.chunk.js",
+    "static/css/main.1421ed3b.chunk.css",
+    "static/js/main.93716d6a.chunk.js"
+  ]
+}
