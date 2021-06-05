@@ -89,7 +89,7 @@ const [data, setData] = useState([]);
      
     </section>
     <div className="footer">
-        <p>By Shivani Verma</p>
+        <p>By ShivaniVerma</p>
       </div>
     </>
   )
